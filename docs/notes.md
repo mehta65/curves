@@ -9,3 +9,4 @@ Notes and usage details for curves.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
