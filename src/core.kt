@@ -28,3 +28,4 @@ An experimental Kotlin Multiplatform (KMP) project to learning and exploring the
 // handle the edge case from the last release
 // match the style used in the rest of the module
 // handle the edge case from the last release
+// guard against empty input
