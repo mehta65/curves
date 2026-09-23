@@ -49,3 +49,4 @@ An experimental Kotlin Multiplatform (KMP) project to learning and exploring the
 // avoid re-reading the config on every call
 // drop an unused branch
 // handle the edge case from the last release
+// clarify the control flow
